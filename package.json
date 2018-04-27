@@ -10,18 +10,11 @@
     "type": "git",
     "url": "git://github.com/knownasilya/jquery-highlight.git"
   },
-  "keywords": [
-    "jquery",
-    "highlight",
-    "keywords"
-  ],
-  "author": "",
+  "keywords": [],
+  "author": "knownasilya",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/knownasilya/jquery-highlight/issues"
   },
-  "homepage": "https://github.com/knownasilya/jquery-highlight",
-  "dependencies": {
-    "jquery": ">= 1.0.0"
-  }
+  "homepage": "https://github.com/knownasilya/jquery-highlight"
 }
